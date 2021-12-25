@@ -1,16 +1,16 @@
 {
   "name": "@shaojie-li/block-publish-cli",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "> TODO: description",
   "author": "shaojie-li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
   "license": "ISC",
   "main": "lib/bin.js",
   "bin": {
-   "sj": "lib/bin.js"
+    "sj": "lib/bin.js"
   },
   "engines": {
-     "node": ">=14.15.0"
+    "node": ">=14.15.0"
   },
   "publishConfig": {
     "access": "public"
@@ -27,9 +27,9 @@
     "url": "git+https://github.com/shaojie-li/my-cli.git"
   },
   "scripts": {
-   "dev": "tsc -w",
-   "build": "rimraf ./lib && tsc",
-   "clean": "rimraf lib"
+    "dev": "tsc -w",
+    "build": "rimraf ./lib && tsc",
+    "clean": "rimraf lib"
   },
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
