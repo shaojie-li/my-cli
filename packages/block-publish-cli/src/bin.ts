@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log("Hello sj cli!");
+console.log("Hello sj cli! Hi!");
