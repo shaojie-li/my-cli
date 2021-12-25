@@ -1,0 +1,27 @@
+{
+  "name": "@sj/block-publish-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "bin": {
+    "sj": "bin/bin.js"
+  },
+  "engines": {
+    "node": ">=14.15.0"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.4",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "rimraf ./lib && tsc",
+    "clean": "rimraf lib"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "rimraf": "^3.0.2"
+  },
+  "files": [
+    "lib"
+  ]
+}
