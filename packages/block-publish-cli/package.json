@@ -1,6 +1,6 @@
 {
   "name": "@shaojie-li/block-publish-cli",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "> TODO: description",
   "author": "shaojie-li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
@@ -22,10 +22,7 @@
   "files": [
     "lib"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shaojie-li/my-cli.git"
-  },
+  "repository": "git@github.com:shaojie-li/my-cli.git",
   "scripts": {
     "dev": "tsc -w",
     "build": "rimraf ./lib && tsc",
@@ -33,5 +30,6 @@
   },
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
-  }
+  },
+  "gitHead": "0aa4d8e40fd28bce8428bb542965c28972b9ca9d"
 }
