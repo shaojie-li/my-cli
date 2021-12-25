@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log("Hello sj cli! Hi!");
+import { argv } from "process";
+
+console.log("Hello sj cli! Hi!", argv);
