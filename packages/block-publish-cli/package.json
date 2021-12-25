@@ -1,6 +1,6 @@
 {
   "name": "@lsjx/block-publish-cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "bin": {
     "sj": "bin/bin.js"
@@ -28,5 +28,5 @@
   "files": [
     "lib"
   ],
-  "gitHead": "b6d7663685505d1a5f74d3bc5cafb38c7d4d3b0b"
+  "gitHead": "39776e415bcd376bb365d03f2f90a4637142a170"
 }
