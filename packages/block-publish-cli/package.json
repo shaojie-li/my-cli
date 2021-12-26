@@ -1,6 +1,6 @@
 {
   "name": "@lsjx/block-publish-cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "> TODO: description",
   "author": "ryan.li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
@@ -41,6 +41,6 @@
   },
   "gitHead": "516482277d4c871bb8880aad132be381104c1b63",
   "dependencies": {
-    "@lsjx/sj-test-lib": "^1.0.3"
+    "@lsjx/sj-test-lib": "^1.0.4"
   }
 }
