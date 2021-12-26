@@ -1,6 +1,6 @@
 {
   "name": "@shaojie-li/block-publish-cli",
-  "version": "0.0.21",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "shaojie-li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
@@ -33,10 +33,10 @@
     "sj": "sj",
     "dev": "tsc -w",
     "build": "rimraf ./lib && tsc",
-    "clean": "rimraf lib"
+    "clean": "rimraf lib",
+    "prepublishOnly": "yarn build"
   },
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
-  },
-  "gitHead": "2deb9811a66cd2151e8ec3ead978d0ffdd9902ac"
+  }
 }
