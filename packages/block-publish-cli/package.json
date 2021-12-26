@@ -23,14 +23,7 @@
     "lib"
   ],
   "repository": "git@github.com:shaojie-li/my-cli.git",
-  "devDependencies": {
-    "@types/node": "^17.0.4",
-    "prettier": "^2.5.1",
-    "rimraf": "^3.0.2",
-    "typescript": "^4.5.4"
-  },
   "scripts": {
-    "sj": "sj",
     "dev": "tsc -w",
     "build": "rimraf ./lib && tsc",
     "clean": "rimraf lib",
@@ -39,8 +32,5 @@
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
   },
-  "gitHead": "31604a98f96d71fe715fb15515ab4e99e7d2c2b3",
-  "dependencies": {
-    "@lsjx/sj-test-lib": "^1.0.4"
-  }
+  "gitHead": "31604a98f96d71fe715fb15515ab4e99e7d2c2b3"
 }
