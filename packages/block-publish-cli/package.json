@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "shaojie-li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/bin.js",
   "bin": {
     "sj": "lib/bin.js"
