@@ -4,6 +4,12 @@
   "workspaces": {
     "packages": [
       "packages/*"
+    ],
+    "nohoist": [
+      "docz/**",
+      "webpack",
+      "ts-loader",
+      "ts-node"
     ]
   },
   "devDependencies": {

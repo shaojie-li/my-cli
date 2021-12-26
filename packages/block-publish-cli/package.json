@@ -2,7 +2,7 @@
   "name": "@lsjx/block-publish-cli",
   "version": "0.0.4",
   "description": "> TODO: description",
-  "author": "shaojie-li <108274244@@qq.com>",
+  "author": "ryan.li <108274244@@qq.com>",
   "homepage": "https://github.com/shaojie-li/my-cli#readme",
   "license": "MIT",
   "main": "lib/bin.js",
