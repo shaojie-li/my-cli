@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shaojie-li/my-cli.git"
@@ -29,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
   },
-  "gitHead": "fe7d90aaba03c42b21da6dae1c149368b07521fd"
+  "gitHead": "516482277d4c871bb8880aad132be381104c1b63"
 }

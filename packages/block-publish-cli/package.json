@@ -39,7 +39,7 @@
   "bugs": {
     "url": "https://github.com/shaojie-li/my-cli/issues"
   },
-  "gitHead": "fe7d90aaba03c42b21da6dae1c149368b07521fd",
+  "gitHead": "516482277d4c871bb8880aad132be381104c1b63",
   "dependencies": {
     "@lsjx/sj-test-lib": "^1.0.3"
   }
