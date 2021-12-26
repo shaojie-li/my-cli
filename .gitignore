@@ -113,7 +113,7 @@ public/
 test
 gatsby-site
 .DS_Store
-package-lock.json
+# package-lock.json
 yarn.lock
 
 .env.development

@@ -5,7 +5,7 @@
   "version": "independent",
   "npmClient": "yarn",
   "useWorkspaces": true,
-  "npmClientArgs": ["--production", "--no-optional", "-no-package-lock"],
+  "npmClientArgs": ["--production", "--no-optional"],
   "command": {
     "publish": {
       "ignoreChanges": [
